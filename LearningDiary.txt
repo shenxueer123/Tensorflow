@@ -1,10 +1,13 @@
-¸ãÁËºÃ¾Ã²Å°ÑjupyterµÄ±£´æÂ·¾¶£¬¸ü¸ÄÁË¡£
-Ñ§Ï°ÁËÈçºÎÉÏ´«´úÂëµ½githubÉÏ
-pipÊ±ºò£¬C:\Users\98682\AppData\Local\Programs\Python\Python36\Scripts
-¶¼ÔÚÓĞScriptsÄ¿Â¼ÏÂÃæ
-ÔÚAnacondaÖĞ£¬ÓÃconda install XXX 
+æäº†å¥½ä¹…æ‰æŠŠjupyterçš„ä¿å­˜è·¯å¾„ï¼Œæ›´æ”¹äº†ã€‚
+å­¦ä¹ äº†å¦‚ä½•ä¸Šä¼ ä»£ç åˆ°githubä¸Š
+pipæ—¶å€™ï¼ŒC:\Users\98682\AppData\Local\Programs\Python\Python36\Scripts
+éƒ½åœ¨æœ‰Scriptsç›®å½•ä¸‹é¢
+åœ¨Anacondaä¸­ï¼Œç”¨conda install XXX 
  git init
 git add 2.txt
  git commit -m "first commit"
 git remote add origin https://github.com/shenxueer123/Tensorflow.git
- git push -u origin master
+ git push -u origin masterè¿›è¡Œåˆ°è¿™æ­¥ï¼Œç”±äºä¸¤è€…ä¸åŒæ­¥ï¼Œå¯¼è‡´ä¸èƒ½push 
+ æ‰€ä»¥å…ˆæ‰§è¡Œgit pull --rebase origin master
+ å†æ‰§è¡Œgit push -u origin master
+ 
